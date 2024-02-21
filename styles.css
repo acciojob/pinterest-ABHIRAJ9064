@@ -1,1 +1,16 @@
-/*  your css code here. If applicable */
+#container{
+	display: flex;
+	justify-content: space-between;
+	algin-item: right;
+}
+.hero_image {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+hero section {
+padding: 10px;
+background-color: navy green;
+color: green;
+border_radius: 10px;
+}
